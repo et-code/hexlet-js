@@ -1,6 +1,7 @@
 {
   "name": "hexlet-js",
   "version": "1.0.0",
+  "type": "module",
   "description": "Мой первый проект на Хекслете",
   "main": "index.js",
   "scripts": {
@@ -10,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/et-code/hexlet-js.git"
   },
-  "author": "",
+  "author": "Evgeniy Trifonov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/et-code/hexlet-js/issues"
